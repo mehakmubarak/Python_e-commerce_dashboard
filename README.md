@@ -3,9 +3,6 @@
 This is a simple **E-commerce Dashboard** built using **Dash, Plotly, Pandas, and Bootstrap*.  
 It displays dummy data for sales, products, customers, and orders in an interactive dashboard format.  
 
-The dashboard runs locally at:  
- *http://127.0.0.1:8050*
-
 ---
 
 ##  Features
@@ -16,8 +13,6 @@ The dashboard runs locally at:
   - Customer segments
   - Order status
 - Progress bars for quick performance overview
-- Responsive layout with Bootstrap
-
 ---
 
 ##  Installation & Setup
